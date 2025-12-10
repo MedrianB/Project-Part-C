@@ -20,7 +20,7 @@ foreach ($tables as $table) {
 </head>
 <body>
 
-<h1>Theatre Booking – Part C</h1>
+<h1>Theatre Booking | Part C</h1>
 
 <h2>Navigation</h2>
 <ul>
